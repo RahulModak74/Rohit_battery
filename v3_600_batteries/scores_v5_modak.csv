@@ -1,0 +1,2 @@
+Battery,SOH_%,SOH_Change_%_per_cycle,Resistance_mOhm,RUL_cycles,C_Rate,Score_SOH_Change,Score_SOH,Score_Modak,Score_Resistance,Score_Usage,Score_WITH_Model,Score_WITHOUT_Model,Model_Impact,Tier,Price,Modak_Distance,Anomaly_Status,Physics_Compliance_%,Conclusion
+1,86.5,-0.0069,31.5,941,0.13,95.9,75.6,37.5,91.2,100,75.0,72.8,2.2,STANDARD,₹5000-7000/kWh,2.875,MONITOR,37.5,"✅ STANDARD - Model confirms assessment (D_M>2.5 (monitor)) [D_M=2.87, MONITOR]"

@@ -1,0 +1,2 @@
+current,voltage,temperature,cell_voltage_min,soc,cycle_count,internal_resistance,charge_capacity,discharge_capacity,c_rate,dod,soh,cell_voltage_max,mfg_rated_cycles,calendar_age_days,chemistry_type
+-6.51,4.04,30.1,4.027,0.927,381,0.0315,51.11,51.79,0.412,0.073,0.9129,4.056,1000,1309,0.0

@@ -1,0 +1,2 @@
+Battery,SOH_%,SOH_Change_%_per_cycle,Resistance_mOhm,RUL_cycles,C_Rate,Score_SOH_Change,Score_SOH,Score_Modak,Score_Resistance,Score_Usage,Score_WITH_Model,Score_WITHOUT_Model,Model_Impact,Tier,Price,Modak_Distance,Anomaly_Status,Physics_Compliance_%,Conclusion
+1,87.1,-0.0069,31.5,1027,0.13,95.9,77.3,52.8,91.2,100,82.4,77.3,5.0,PREMIUM,₹8000-10000/kWh,2.417,MONITOR,52.8,"✅ PREMIUM - Model UPGRADES from STANDARD (+5.0 pts) [D_M=2.42, MONITOR]"

@@ -1,0 +1,2 @@
+Battery,SOH_%,SOH_Change_%_per_cycle,Modak_Distance,Anomaly_Status,Score_WITH_Model,Tier,Price,Conclusion
+1,86.5,-0.0069,2.614,MONITOR,75.0,STANDARD,₹5000-7000/kWh,"✅ STANDARD - Model confirms assessment (D_M>2.5 (monitor)) [D_M=2.61, MONITOR]"
